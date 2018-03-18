@@ -1,12 +1,12 @@
 {
   "name": "@mahjongg/new-component",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "preferGlobal": true,
   "bin": "./index.js",
   "main": "index.js",
-  "repository" :{ 
-  	"type" : "git", 
-  	"url" : "https://github.com/eric-hoppenworth/new-component.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eric-hoppenworth/new-component.git"
   },
   "license": "MIT",
   "dependencies": {
