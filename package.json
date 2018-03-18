@@ -4,6 +4,10 @@
   "preferGlobal": true,
   "bin": "./index.js",
   "main": "index.js",
+  "repository" :{ 
+  	"type" : "git", 
+  	"url" : "https://github.com/eric-hoppenworth/new-component.git"
+  },
   "license": "MIT",
   "dependencies": {
     "commander": "^2.14.1"
