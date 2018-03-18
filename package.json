@@ -1,6 +1,6 @@
 {
   "name": "@mahjongg/new-component",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "preferGlobal": true,
   "bin": "./index.js",
   "main": "index.js",
